@@ -11,6 +11,7 @@
     <modules>
         <module>dubboxdemoService</module>
         <module>dubboxdemoWeb</module>
+        <module>mybatisGenerate</module>
     </modules>
 
 

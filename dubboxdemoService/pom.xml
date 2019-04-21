@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>dubboxdemoService</artifactId>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
 
     <name>dubboxdemoService</name>
     <!-- FIXME change it to the project's website -->
